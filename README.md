@@ -28,7 +28,7 @@ This script has been created to enhance images through a range of techniques inc
 
 #### For TensorFlow (for the CNN model):   
 
-`pip install tensorflow`
+```pip install tensorflow```
 
 
 
